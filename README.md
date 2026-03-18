@@ -89,7 +89,3 @@ If it fails, the screen shows `CAL FAIL`.
 - The repository keeps source files, project files, and required config
 - Build outputs and local Keil user files such as `*.uvoptx` and
   `*.uvguix.*` are ignored by `.gitignore`
-
-## Learning Notes
-
-- [STM32 register chat notes](docs/stm32-register-chat-notes.md)
