@@ -1,0 +1,21 @@
+# Keil/uVision user-specific files
+*.uvoptx
+*.uvguix.*
+
+# Build outputs
+*.axf
+*.build_log.htm
+*.d
+*.dep
+*.htm
+*.lnp
+*.map
+*.o
+
+# Generated folders
+DebugConfig/
+Listings/
+Objects/
+
+# RTE generated backups
+*.base@*
